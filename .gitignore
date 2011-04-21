@@ -1,3 +1,7 @@
+# Directories for build-generated files
+/bin
+/gen
+
 # Android generated files
 *.apk
 *.class
