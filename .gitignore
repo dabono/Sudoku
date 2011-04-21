@@ -1,0 +1,5 @@
+# Android generated files
+*.apk
+*.class
+*.jar
+R.java
